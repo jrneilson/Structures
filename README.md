@@ -5,3 +5,9 @@ Relaxed structures in the VASP POSCAR format from the publication:
 XXXXXXX
 
 
+C7H7BiBr4.POSCAR
+C7H7BiCl4.POSCAR
+C7H7BiI4.POSCAR
+C7H7SbBr4.POSCAR
+C7H7SbCl4.POSCAR
+C7H7SbI4.POSCAR
